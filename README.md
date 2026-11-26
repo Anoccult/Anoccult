@@ -1,4 +1,5 @@
 ![MasterHead](https://i.imgur.com/Ss0DrYK.jpeg)
+![snake gif](https://github.com/Anoccult/Anoccult/blob/output/github-contribution-grid-snake.gif)
 <h3 align="center">ERP Systems & Data Analytics | SQL & Python</h3>
 
 - ⚙️ Current Focus: **Building stronger skills in SQL, Python, and Data Analytics**
