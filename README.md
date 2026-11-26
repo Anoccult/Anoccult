@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/Ss0DrYK.jpeg)
+![MasterHead](https://i.imgur.com/Ss0DrYK.jpeg)
 <h3 align="center">ERP Systems & Data Analytics | SQL & Python</h3>
 
 - ⚙️ Current Focus: **Building stronger skills in SQL, Python, and Data Analytics**
