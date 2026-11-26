@@ -5,7 +5,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anoccult/Anoccult/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Anoccult/Anoccult/output/github-contribution-grid-snake.svg">
 </picture>
-
+<h1 align="center">developer = {
+    "name": "Nazım Çelenk",
+    "alias": "Anoccult"
+}</h1>
 <h3 align="center">ERP Systems & Data Analytics | SQL & Python</h3>
 
 - ⚙️ Current Focus: **Building stronger skills in SQL, Python, and Data Analytics**
